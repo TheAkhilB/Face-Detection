@@ -6,4 +6,4 @@ A simple code in python using opencv for face detection.
     -A working webcam
 
 Used Technologies:
--Python
+Python
