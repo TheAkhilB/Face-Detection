@@ -1,7 +1,9 @@
-# PyProjects
+A simple code in python using opencv for face detection.
 
- Pre-requisites for FaceDetect.Py
+ Pre-requisites:
 
     -OpenCV installed
     -A working webcam
 
+Used Technologies:
+-Python
